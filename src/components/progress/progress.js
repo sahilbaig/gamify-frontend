@@ -21,7 +21,7 @@ const Progress = () =>{
         <div className="card">
             <div className="icons">
                 <MilitaryTechIcon className="icon" style={{ fontSize: 30 }}/>
-                <>Level</>
+                <p style={{color:"white"}}>Level : {}</p>
             </div>
             
             <div>
